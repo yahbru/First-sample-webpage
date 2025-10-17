@@ -394,7 +394,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.6) 100%
     ),
-    url('https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg');
+    url('https://images.pexels.com/photos/2007647/pexels-photo-2007647.jpeg?_gl=1*1n5ko9d*_ga*MTUyOTk2NDEzNS4xNzU5ODYyNTQw*_ga_8JE65Q40S6*czE3NjA3MjYyNDckbzMkZzEkdDE3NjA3MjgxOTUkajU2JGwwJGgw');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -600,3 +600,4 @@
     }
 
 }
+
